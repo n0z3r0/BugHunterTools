@@ -39,3 +39,9 @@ Set of tools for successfull bug hunting
 * http://ipv4info.com
 * https://www.exploit-db.com/google-hacking-database
 * https://www.shodan.io
+
+# Bug Bounty Platform
+* HackerOne.com
+* Bugcrowd.com
+* Synack.com
+* Cobalt.io
